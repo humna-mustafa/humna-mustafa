@@ -1,7 +1,7 @@
 # Hi, I'm Humna Mustafa 👋
 
-             Software Engineering Student passionate about 
-              developing innovative software solutions.
+Software Engineering Student passionate about 
+developing innovative software solutions.
 
 ---
 
@@ -26,9 +26,9 @@ I'm a Software Engineering student focused on developing innovative applications
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humna-mustafa&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humna-mustafa&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=humna-mustafa&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humna-mustafa&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humna-mustafa&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=humna-mustafa)
 
 ---
 
