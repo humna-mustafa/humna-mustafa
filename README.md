@@ -23,12 +23,6 @@ I'm a Software Engineering student focused on developing innovative applications
 - 🧠 Full Stack Development, Data Science, AI/ML
 - 💡 Goal: Create user-centered applications with cutting-edge technologies
 
- <!-- Certifications Section -->
- 🔗## 🏆 Certifications
-
-  <p align="left">
-  <!-- Add your certification badges here if you have any -->
-  </p>
 
 
 
@@ -47,11 +41,10 @@ I'm a Software Engineering student focused on developing innovative applications
 🔗## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humna-mustafa&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="160" />
-  <img src="https://streak-stats.demolab.com?user=humna-mustafa&hide_border=true&theme=transparent" alt="GitHub Streak" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humna-mustafa&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=humna-mustafa&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humna-mustafa" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humna-mustafa&layout=compact" alt="Top Languages" />
 </div>
-<!-- Fallback if streak image fails to load: https://streak-stats.demolab.com/?user=humna-mustafa -->
 
 ---
 
