@@ -21,7 +21,7 @@ I'm a Software Engineering student focused on developing end-to-end applications
 
 - 🎓 Undergraduate at COMSATS University Islamabad
 - 🧠 Full Stack Development, Data Science, AI/ML
-- 💡 Goal: Build user-centered applications with cutting-edge technologies
+- 🔭 Goal: Build user-centered applications with cutting-edge technologies
 
 ---
 
