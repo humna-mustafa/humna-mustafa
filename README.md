@@ -17,11 +17,11 @@
 ---
  ## 👨‍💻 About Me
 
-I'm a Software Engineering student focused on developing innovative applications that solve real-world problems. I'm passionate about leveraging technology to create positive change and continuously learning new tools and frameworks to enhance my skills.
+I'm a Software Engineering student focused on developing innovative applications. I'm continuously exploring new technologies to create impactful solutions.
 
 - 🎓 Undergraduate at COMSATS University Islamabad
 - 🧠 Full Stack Development, Data Science, AI/ML
-- 💡 Goal: Create user-centered applications with cutting-edge technologies
+- 💡 Goal: Build user-centered applications with cutting-edge technologies
 
 ---
 
