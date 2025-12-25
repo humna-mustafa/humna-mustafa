@@ -46,6 +46,18 @@ I'm a Software Engineering student focused on developing end-to-end user-centere
 
 ---
 
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=humna-mustafa&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400&v=2" alt="GitHub Stats" height="160" loading="lazy" />
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=humna-mustafa&hide_border=true&theme=transparent&date_format=M%20j%5B,%20Y%5D&v=2" alt="GitHub Streak" height="160" loading="lazy" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humna-mustafa&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400&v=2" alt="Top Languages" height="160" loading="lazy" />
+``
+
+---
+
 ## 📫 Get in Touch
 
 - LinkedIn: [https://www.linkedin.com/in/humna-mustafa/](https://www.linkedin.com/in/humna-mustafa/)
