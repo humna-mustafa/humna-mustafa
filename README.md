@@ -13,10 +13,9 @@
    </p>
  
  </div>
- 
----
 
-## 👨‍💻 About Me
+
+🔗## 👨‍💻 About Me
 
 I'm a Software Engineering student focused on developing innovative applications that solve real-world problems. I'm passionate about leveraging technology to create positive change and continuously learning new tools and frameworks to enhance my skills.
 
@@ -24,32 +23,41 @@ I'm a Software Engineering student focused on developing innovative applications
 - 🧠 Full Stack Development, Data Science, AI/ML
 - 💡 Goal: Create user-centered applications with cutting-edge technologies
 
----
+ <!-- Certifications Section -->
+ 🔗## 🏆 Certifications
 
-## 🧰 Tech Stack
+  <p align="left">
+  <!-- Add your certification badges here if you have any -->
+  </p>
 
-### Languages
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humna-mustafa&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humna-mustafa&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=humna-mustafa)
 
 ---
+
+🔗## 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-18181B?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+</p>
+
+---
+
+🔗## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=humna-mustafa&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://streak-stats.demolab.com?user=humna-mustafa&hide_border=true&theme=transparent" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humna-mustafa&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="160" />
+</div>
+<!-- Fallback if streak image fails to load: https://streak-stats.demolab.com/?user=humna-mustafa -->
 
-## 📫 Get in Touch
+---
+
+🔗## 📫 Get in Touch
 
 - LinkedIn: [https://www.linkedin.com/in/humna-mustafa/](https://www.linkedin.com/in/humna-mustafa/)
 - GitHub: [https://github.com/humna-mustafa](https://github.com/humna-mustafa)
-
-</div>
 
 ---
