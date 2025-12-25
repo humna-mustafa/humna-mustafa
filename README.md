@@ -28,8 +28,8 @@ I'm a Software Engineering student focused on developing innovative applications
 ## 🧰 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-18181B?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
   <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
 </p>
 
