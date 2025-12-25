@@ -15,7 +15,12 @@
  </div>
 
 
-🔗 <h2><b>👨‍💻 About Me</b></h2>
+
+
+---
+
+<h2><b>👨‍💻 About Me</b></h2>
+
 
 I'm a Software Engineering student focused on developing innovative applications that solve real-world problems. I'm passionate about leveraging technology to create positive change and continuously learning new tools and frameworks to enhance my skills.
 
