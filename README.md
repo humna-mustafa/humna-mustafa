@@ -15,7 +15,7 @@
  </div>
 
 
-🔗👨‍💻 About Me
+🔗## **<b>👨‍💻 About Me</b>**
 
 I'm a Software Engineering student focused on developing innovative applications that solve real-world problems. I'm passionate about leveraging technology to create positive change and continuously learning new tools and frameworks to enhance my skills.
 
@@ -23,9 +23,12 @@ I'm a Software Engineering student focused on developing innovative applications
 - 🧠 Full Stack Development, Data Science, AI/ML
 - 💡 Goal: Create user-centered applications with cutting-edge technologies
 
+
+
+
 ---
 
-🔗🧰 Tech Stack
+🔗## **<b>🧰 Tech Stack</b>**
 
 <p>
   <img src="https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
@@ -35,7 +38,7 @@ I'm a Software Engineering student focused on developing innovative applications
 
 ---
 
-🔗 📊 GitHub Stats
+🔗## **<b>📊 GitHub Stats</b>**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=humna-mustafa&show_icons=true" alt="GitHub Stats" />
@@ -45,7 +48,7 @@ I'm a Software Engineering student focused on developing innovative applications
 
 ---
 
-🔗📫 Get in Touch
+🔗## **<b>📫 Get in Touch</b>**
 
 - LinkedIn: [https://www.linkedin.com/in/humna-mustafa/](https://www.linkedin.com/in/humna-mustafa/)
 - GitHub: [https://github.com/humna-mustafa](https://github.com/humna-mustafa)
