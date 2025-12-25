@@ -51,4 +51,3 @@ I'm a Software Engineering student focused on developing end-to-end applications
 - LinkedIn: [https://www.linkedin.com/in/humna-mustafa/](https://www.linkedin.com/in/humna-mustafa/)
 - GitHub: [https://github.com/humna-mustafa](https://github.com/humna-mustafa)
 
----
