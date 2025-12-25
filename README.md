@@ -1,8 +1,10 @@
-#                                                                                   Hi, I'm Humna Mustafa 👋
+<div align="center">
+# Hi, I'm Humna Mustafa 👋
 
 Software Engineering Student passionate about 
 developing innovative software solutions.
 
+</div>
 ---
 
 ## 👨‍💻 About Me
@@ -32,10 +34,13 @@ I'm a Software Engineering student focused on developing innovative applications
 
 ---
 
+<div align="center">
 
 ## 📫 Get in Touch
 
 - LinkedIn: [https://www.linkedin.com/in/humna-mustafa/](https://www.linkedin.com/in/humna-mustafa/)
 - GitHub: [https://github.com/humna-mustafa](https://github.com/humna-mustafa)
 
---
+</div>
+
+---
