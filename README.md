@@ -1,10 +1,19 @@
 <div align="center">
-# Hi, I'm Humna Mustafa 👋
-
-Software Engineering Student passionate about 
-developing innovative software solutions.
-
-</div>
+ 
+   <h1>Hi, I'm Humna Mustafa</h1>
+   <p>Software Engineering Student passionate about developing with emerging technologies.</p>
+ 
+   <p>
+     <a href="https://www.linkedin.com/in/humna-mustafa/" target="_blank" rel="noopener noreferrer">
+       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+     </a>
+     <a href="https://github.com/humna-mustafa?tab=followers" target="_blank" rel="noopener noreferrer">
+       <img alt="GitHub followers" src="https://img.shields.io/github/followers/humna-mustafa?label=Followers&style=for-the-badge" />
+     </a>
+   </p>
+ 
+ </div>
+ 
 ---
 
 ## 👨‍💻 About Me
