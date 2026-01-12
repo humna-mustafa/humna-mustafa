@@ -20,7 +20,7 @@
 I'm a Software Engineering student focused on developing end-to-end user-centered applications. I'm continuously learning new tools and technologies to build impactful solutions.
 
 - 🎓 Undergraduate at COMSATS University Islamabad, Lahore Campus
-- 🧠 Full Stack Development, Data Science, AI/ML
+- 🧠 Full Stack Development
 - 🔭 Goal: Build user-centered applications with cutting-edge technologies
 
 ---
