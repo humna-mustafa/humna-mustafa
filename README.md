@@ -39,11 +39,12 @@ I'm a Software Engineering student focused on developing end-to-end user-centere
 
 <div align="center">
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=humna-mustafa&hide_border=true&theme=transparent" alt="GitHub Streak" height="160" />
+  <!-- GitHub Streak (Transparent) -->
+  <img src="https://streak-stats.demolab.com?user=humna-mustafa&hide_border=true&theme=transparent" 
+       alt="GitHub Streak" height="160" />
 
-  <!-- Hackatime / Wakatime Stats -->
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=25476&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" 
+  <!-- Hackatime / Wakatime Stats (Transparent) -->
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=25476&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" 
        alt="Hackatime Stats" height="160" />
 
 </div>
