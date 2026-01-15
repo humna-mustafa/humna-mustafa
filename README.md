@@ -39,7 +39,8 @@ I'm a Software Engineering student focused on developing end-to-end user-centere
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=humna-mustafa&hide_border=true&theme=transparent" alt="GitHub Streak" height="160" />
-</div>
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=25476&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent
+div>
 <!-- Fallback if streak image fails to load: https://streak-stats.demolab.com/?user=humna-mustafa -->
 
 ---
