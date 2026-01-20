@@ -43,13 +43,13 @@ I'm a Software Engineering student focused on developing end-to-end user-centere
   <img src="https://streak-stats.demolab.com?user=humna-mustafa&hide_border=true&theme=transparent" 
        alt="GitHub Streak" height="160" />
      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=humna-mustafa&layout=compact&theme=transparent&border_radius=0"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=humna-mustafa&layout=compact&theme=transparent"
         alt="Top Languages"
         height="160"
       />
       
   <img
-        src="https://github-readme-stats.vercel.app/api?username=humna-mustafa&show_icons=true&theme=transparent&border_radius=0"
+        src="https://github-readme-stats.vercel.app/api?username=humna-mustafa&show_icons=true&theme=transparent"
         alt="GitHub Stats"
         height="160"
       />
