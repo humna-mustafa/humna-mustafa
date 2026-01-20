@@ -42,10 +42,22 @@ I'm a Software Engineering student focused on developing end-to-end user-centere
   <!-- GitHub Streak (Transparent) -->
   <img src="https://streak-stats.demolab.com?user=humna-mustafa&hide_border=true&theme=transparent" 
        alt="GitHub Streak" height="160" />
-
-  <!-- Hackatime / Wakatime Stats (Transparent) -->
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=25476&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" 
+     <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=humna-mustafa&layout=compact&theme=transparent&border_radius=0"
+        alt="Top Languages"
+        height="160"
+      />
+      
+  <img
+        src="https://github-readme-stats.vercel.app/api?username=humna-mustafa&show_icons=true&theme=transparent&border_radius=0"
+        alt="GitHub Stats"
+        height="160"
+      />
+     <!-- Hackatime / Wakatime Stats (Transparent) -->
+    <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=25476&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" 
        alt="Hackatime Stats" height="160" />
+
+
 
 </div>
 
