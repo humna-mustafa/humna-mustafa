@@ -15,7 +15,7 @@
  </div>
 
 ---
- ## 👨‍💻 About Me
+ ## 👩‍💻 About Me
 
 I'm a Software Engineering student focused on developing end-to-end user-centered applications. I'm continuously learning new tools and technologies to build impactful solutions.
 
