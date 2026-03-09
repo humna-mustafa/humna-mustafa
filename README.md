@@ -4,12 +4,15 @@
    <p>Software Engineering Student passionate about developing with emerging technologies.</p>
  
    <p>
-     <a href="https://www.linkedin.com/in/humna-mustafa/" target="_blank" rel="noopener noreferrer">
-       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-     </a>
-     <a href="https://github.com/humna-mustafa?tab=followers" target="_blank" rel="noopener noreferrer">
-       <img alt="GitHub followers" src="https://img.shields.io/github/followers/humna-mustafa?label=Followers&style=for-the-badge" />
-     </a>
+      <a href="https://humna-mustafa.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img alt="Portfolio" src="https://img.shields.io" />
+  </a>
+  <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io" />
+  </a>
+  <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub followers" src="https://img.shields.io" />
+  </a>
    </p>
  
  </div>
