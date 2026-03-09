@@ -7,13 +7,8 @@
      <a href="https://humna-mustafa.vercel.app" target="_blank" rel="noopener noreferrer">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-humna--mustafa.vercel.app-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/humna-mustafa/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-humna--mustafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/humna-mustafa?tab=followers" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/humna-mustafa?label=Followers&style=for-the-badge" />
   </a>
    </p>
  
