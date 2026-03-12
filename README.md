@@ -57,5 +57,5 @@ I'm a Software Engineering student focused on developing end-to-end user-centere
 
 - LinkedIn: [https://www.linkedin.com/in/humna-mustafa/](https://www.linkedin.com/in/humna-mustafa/)
 - GitHub: [https://github.com/humna-mustafa](https://github.com/humna-mustafa)
-- Kaggle: [https://www.kaggle.com/humnamustafa]
+- Kaggle: [https://www.kaggle.com/humnamustafa](https://www.kaggle.com/humnamustafa)
 - Google Developers Profile: [https://g.dev/humna-mustafa](https://g.dev/humna-mustafa)
