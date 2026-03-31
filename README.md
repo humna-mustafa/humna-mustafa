@@ -1,8 +1,8 @@
 <div align="center">
- 
-   <h1>Hi, I'm Humna Mustafa</h1>
-   <p>Software Engineering Student passionate about developing with emerging technologies.</p>
- 
+
+    
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Humna+Mustafa+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Software+Engineering+Student;Tech+Enthusiast+%F0%9F%9A%80;Building+Impactful+Solutions" alt="Typing SVG" />
+  
    <p>
      <a href="https://humna-mustafa.vercel.app" target="_blank" rel="noopener noreferrer">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-humna--mustafa.vercel.app-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
